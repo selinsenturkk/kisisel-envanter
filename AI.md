@@ -23,7 +23,7 @@ try {
 }  
 
 Veritabanından çekilen envanter verilerini tablo halinde listelemek ve silme işlemi öncesi kullanıcı onayı almak için önerilen kod:  
-<a href="delete_item.php?id=<?php echo $esya['id']; ?>"  
+< a href="delete_item.php?id=<?php echo $esya['id']; ?>"  
    class="btn btn-sm btn-outline-danger"  
-   onclick="return confirm('Silmek istediğinize emin misiniz?')">Sil</a>  
+   onclik="retur n confirm('Silmek istediğinize emin misiniz?')">Sil</a>  
 
