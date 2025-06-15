@@ -41,7 +41,7 @@ Proje, PHP programlama dili ve MySQL veritabanı kullanılarak geliştirilmişti
 <img src="screenshots/img3.png" width="500"/>
 
 
-### Yeni Eşya ekle
+### Envanter Listesi
 
 <img src="screenshots/img4.png" width="500"/>
 
@@ -57,3 +57,7 @@ Proje, PHP programlama dili ve MySQL veritabanı kullanılarak geliştirilmişti
 - Giriş işlemlerinde `password_verify()` kullanılır.
 - Kullanıcı oturumları `$_SESSION` ile kontrol edilir.
 - Sayfa erişimleri oturum kontrolü ile sınırlandırılmıştır.
+
+## Demo videosu
+
+Uygulamanın demo videosuna [buradan](https://www.youtube.com/watch?v=LSRYeD_wpJA) ulaşabilirsiniz.
